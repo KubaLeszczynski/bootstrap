@@ -1,20 +1,48 @@
 .navbar {
-	margin-bottom: 0;
+    margin-bottom: 0;
 }
+
 .ingredient {
-	padding: 50px 0;
-	background-color: limegreen;
-	color: #fff;
+    padding: 50px 0;
+    background-color: limegreen;
+    color: #fff;
 }
+
 .ingredient span {
-	font-size: 50px;
-	padding-bottom: 20px;
+    font-size: 50px;
+    padding-bottom: 20px;
 }
+
 .ingredient p {
-	font-size: 17px;
-	font-weight: 500;
+    font-size: 20px;
+    font-weight: 500;
 }
+
 .recipe {
-	background-color: green;
-	padding: 30px 10px;
+    background-color: green;
+    padding: 30px 10px;
+}
+
+.recipe h3, .recipe p {
+    color: #fff;
+}
+
+.recipe img {
+    width: 250px;
+}
+
+label {
+    color: #fff;
+}
+
+input[type="submit"] {
+    width: 100px;
+}
+
+footer {
+	background-color: yellowgreen;
+}
+
+footer p {
+	padding: 20px 10px;
 }
